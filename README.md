@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Arnav Kapoor, a Master's student specializing in Machine Learning and Computational Data Science at Carnegie Mellon University. Currently, I'm eagerly looking for full-time roles starting in January 2024.
+I'm Arnav Kapoor, a Master's student specializing in Machine Learning and Computational Data Science at Carnegie Mellon University. 
 
 #### Education
 - 🎓 Master in Computational Data Science, Carnegie Mellon University (GPA: 4.12/4.0) - Dec 2023 (Anticipated)
