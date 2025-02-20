@@ -47,6 +47,6 @@ I'm Arnav Kapoor, a Master's student specializing in Machine Learning and Comput
 - 🛠️ Frameworks and Tools: ReactJS, Node.js, Flask, Git, Docker, Linux, Bash, LaTeX
 
 #### 📫 Let's Connect
-- 📧 Email: kapoorarn@gmail.com
+- 📧 Email: arnavk805@gmail.com
 - 🌐 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/arnav-kap)
 - 📚 Google Scholar: [Google Scholar Profile]([https://scholar.google.com/citations?user=](https://scholar.google.com/citations?user=ny3tCvIAAAAJ&hl=en)https://scholar.google.com/citations?user=ny3tCvIAAAAJ&hl=en)
